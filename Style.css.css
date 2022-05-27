@@ -1,0 +1,37 @@
+body {
+    
+    background-image:url(odm3.jpg);
+    background-size: cover;
+    }
+    
+    .grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(95, 177, 170);
+    padding: 10px 50px 30px 50px;
+    border-radius: 50px;
+    border: 2px solid #01b646;
+    box-shadow: 10px 15px 5px #00470c;
+    }
+    p {
+        font-family: cursive; 
+        font-size: large;
+        color: rgba(140, 0, 0, 0.906);
+        text-align: right ;
+            }
+
+h1{
+    color: crimson;
+ }
+
+ h2{
+     color: rgb(3, 84, 84);
+ }
+
+ h5{
+     text-align:justify;
+     text-align: right;
+     color: rgba(140, 0, 0, 0.906);
+     font-family: cursive;
+ }
